@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>くくくりーにんぐラジオ ～着物と宅配クリーニングの話～</title>
+    <link>https://cccleaning.jp</link>
+    <language>ja</language>
+    <description>宅配クリーニング・着物ケア・衣類トラブルの疑問を、くくくりーにんぐ編集部とずんだもん・四国めたんの掛け合いで解説するポッドキャスト。音声: VOICEVOX:ずんだもん/四国めたん</description>
+    <itunes:author>くくくりーにんぐ編集部</itunes:author>
+    <itunes:owner>
+      <itunes:name>くくくりーにんぐ編集部</itunes:name>
+    </itunes:owner>
+    <itunes:summary>宅配クリーニング・着物ケア・衣類トラブルをずんだもん＆四国めたんの掛け合いで解説。音声: VOICEVOX:ずんだもん/四国めたん</itunes:summary>
+    <itunes:category text="Leisure">
+      <itunes:category text="Home &amp; Garden"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://cccleaning.jp/wp-content/uploads/galleria-za9c-r49-00.jpg"/>
+    <image>
+      <url>https://cccleaning.jp/wp-content/uploads/galleria-za9c-r49-00.jpg</url>
+      <title>くくくりーにんぐラジオ ～着物と宅配クリーニングの話～</title>
+      <link>https://cccleaning.jp</link>
+    </image>
+  </channel>
+</rss>
