@@ -22,5 +22,14 @@
       <title>くくくりーにんぐラジオ ～着物と宅配クリーニングの話～</title>
       <link>https://cccleaning.jp</link>
     </image>
+    <item>
+      <title>【第1回】宅配クリーニングの選び方と着物ケアの基本</title>
+      <description>宅配クリーニングを初めて使う方向けに、選び方のポイントと着物クリーニングの基本をずんだもん・四国めたんが掛け合いで解説します。</description>
+      <enclosure url="https://cccleaning.jp/wp-content/uploads/cccleaning-radio-2026-06-05.mp3" length="8335149" type="audio/mpeg"/>
+      <guid isPermaLink="false">cccleaning-radio-2026-06-05</guid>
+      <pubDate>Fri, 05 Jun 2026 09:00:57 +0900</pubDate>
+      <itunes:duration>8:40</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
   </channel>
 </rss>
